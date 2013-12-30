@@ -1,0 +1,9 @@
+administrator
+admin
+123456
+system
+windows
+654321
+qwerty
+asdfgh
+zxcvbn
